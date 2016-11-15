@@ -7,6 +7,5 @@ import (
 )
 
 func main() {
-	fmt.Printf(string.Reverse("\nolleH, world!\n"))
-
+	fmt.Println(string.Reverse("\nolleH, world!\n"))
 }
